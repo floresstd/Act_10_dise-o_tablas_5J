@@ -5,4 +5,4 @@ Tablas
 - Cuaderno
 
 - Lucid
-  ![Captura de pantalla 2024-09-25 203524](https://github.com/user-attachments/assets/fbcd7d80-f18b-4073-889d-4e7ff61f8965)
+![Captura de pantalla 2024-09-25 204259](https://github.com/user-attachments/assets/39bd2453-57ec-4a1f-88a7-99145a242617)
